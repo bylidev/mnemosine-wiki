@@ -81,7 +81,7 @@ Before you start, ensure you have Node.js and npm installed.
 
 ```bash
 # install byli cli globally
-npm install byli -g
+npm install byli@^1.0.4 -g
 ```
 
 ### **2. Creating a New BYLI CMS Project 🆕**
