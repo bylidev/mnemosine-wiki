@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://byli.dev/byli-cms</loc>
+    <lastmod>2024-07-20</lastmod>
+    <keywords>
+      <keyword>markdown</keyword>
+      <keyword>byli-cms</keyword>
+    </keywords>
+    <title>BYLICMS - The Most Powerful JAMstack CMS Made with Angular is Serverless and API-less!</title>
+    <author>Ignacio Lopez</author>
+    <thumb>\assets\blog\images\thumb_caffee.gif</thumb>
+  </url>
+  <url>
+    <loc>https://byli.dev/jam-stack</loc>
+    <lastmod>2024-07-20</lastmod>
+    <keywords>
+      <keyword>markdown</keyword>
+      <keyword>jamstack</keyword>
+    </keywords>
+    <title>JamStack: A modern approach to building web applications</title>
+    <author>Ignacio Lopez</author>
+    <thumb>\assets\blog\images\thumb_jam.png</thumb>
+  </url>
+</urlset>

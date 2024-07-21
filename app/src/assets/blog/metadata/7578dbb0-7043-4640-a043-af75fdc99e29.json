@@ -1,0 +1,26 @@
+{
+  "byli-cms": {
+    "title": "BYLICMS - The Most Powerful JAMstack CMS Made with Angular is Serverless and API-less!",
+    "author": "Ignacio Lopez",
+    "thumb": "\\assets\\blog\\images\\thumb_caffee.gif",
+    "date": "2024-07-20",
+    "tags": [
+      "markdown",
+      "byli-cms"
+    ],
+    "md": "\\assets\\blog\\posts\\8bbde30d-d6ce-4f0a-86e5-a32f6a9be929",
+    "time": 4
+  },
+  "jam-stack": {
+    "title": "JamStack: A modern approach to building web applications",
+    "author": "Ignacio Lopez",
+    "thumb": "\\assets\\blog\\images\\thumb_jam.png",
+    "date": "2024-07-20",
+    "tags": [
+      "markdown",
+      "jamstack"
+    ],
+    "md": "\\assets\\blog\\posts\\c5425a83-1d13-4c47-a8c3-143785dbae3a",
+    "time": 4
+  }
+}

@@ -1,0 +1,7 @@
+<div class="content">
+  <app-scroll-spy [headings]="headings">
+    <markdown  (load)="onLoad()"
+      [src]="mdContent|async">
+    </markdown>
+  </app-scroll-spy>
+</div>

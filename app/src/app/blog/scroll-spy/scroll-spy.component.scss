@@ -1,0 +1,56 @@
+@use '@angular/material' as mat;
+@use '../../../styles' as theme;
+
+.blog {
+  overflow: auto;
+  max-height: 70vh;
+  padding-bottom: 200px;
+  padding-right: 1%;
+  padding-left: 1%;
+  flex:1;
+  max-width: 1000px;
+
+  @media (max-width: 800px) {
+    overflow: unset;
+    flex: 3 !important;
+    padding-right: 3%;
+    padding-left: 3%;
+  }
+}
+
+ul {
+  @media (max-width: 800px) {
+    display: none;
+  }
+  padding: 40px;
+  max-width: 350px;
+  list-style: none;
+
+  li {
+    margin-bottom: 10px;
+    font-size: small;
+    cursor: pointer;
+    color: rgba(mat.get-theme-color(theme.$theme, on-background),0.7);
+
+    > a,
+    > a:active,
+    > a:focus,
+    > a:hover {
+      text-decoration: none;
+      cursor: pointer;
+    }
+  }
+}
+
+:host {
+  display: flex;
+  justify-content: center;
+  max-width: 100vw;
+  @media (max-width: 800px) {
+    flex-direction: column;
+  }
+}
+
+.active {
+  color: mat.get-theme-color(theme.$theme, primary, 50);
+}
