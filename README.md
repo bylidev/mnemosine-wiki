@@ -79,6 +79,8 @@ npm install byli@^1.0.4 -g
 byli init
 # if you have problems with the installation, try with 
 npm exec byli init
+# if you still having problems try with 
+git clone git@github.com:bylidev/byli-blog.git
 ```
 Now you will see the following directory structure:
 
