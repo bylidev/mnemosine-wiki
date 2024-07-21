@@ -1,22 +1,22 @@
 [
   {
     "tag": "all",
-    "route": "/assets/blog/metadata/e0d4c07e-0be7-4481-8b6c-da5af087e7aa.json",
+    "route": "/assets/blog/metadata/ddc3b9b6-ba64-4199-bf91-bb0767d82819.json",
     "size": 9999999999
   },
   {
     "tag": "markdown",
-    "route": "/assets/blog/metadata/e87a537a-8bd7-4d79-a59c-6146924ba2db.json",
+    "route": "/assets/blog/metadata/fdf3923b-f109-4f2c-a18a-86f5970d0499.json",
     "size": 2
   },
   {
     "tag": "byli-cms",
-    "route": "/assets/blog/metadata/d830ee3f-793d-44b1-94a8-765dc0fa2b5e.json",
+    "route": "/assets/blog/metadata/f381842d-2e66-40c9-828f-180687ace708.json",
     "size": 1
   },
   {
     "tag": "jamstack",
-    "route": "/assets/blog/metadata/72829613-285e-4ea2-8c99-31b7154a0b92.json",
+    "route": "/assets/blog/metadata/442241af-8c8a-4dbe-9b4e-693d994a1ef9.json",
     "size": 1
   }
 ]
