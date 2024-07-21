@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "all",
+    "route": "/assets/blog/metadata/519c9ea7-a179-4cc9-916c-a9fc499a779f.json",
+    "size": 9999999999
+  },
+  {
+    "tag": "markdown",
+    "route": "/assets/blog/metadata/613aed14-0fc7-46c4-82be-9b49aa22e7aa.json",
+    "size": 2
+  },
+  {
+    "tag": "byli-cms",
+    "route": "/assets/blog/metadata/f74399f1-f320-4bf6-8e93-09d3f4ccfff8.json",
+    "size": 1
+  },
+  {
+    "tag": "jamstack",
+    "route": "/assets/blog/metadata/6114af8b-390b-4024-859b-2eb7d15a8276.json",
+    "size": 1
+  }
+]
