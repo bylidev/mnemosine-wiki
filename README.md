@@ -80,7 +80,7 @@ byli init
 # if you have problems with the installation, try with 
 npm exec byli init
 # if you still having problems try with 
-git clone git@github.com:bylidev/byli-blog.git
+git clone git@github.com:bylidev/byli-cms.git
 ```
 Now you will see the following directory structure:
 
