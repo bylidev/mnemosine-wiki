@@ -24,14 +24,9 @@ jobs:
       - name: Install dependencies
         run: |
           cd app
-          npm install
+          npm install --include=optional sharp
 
       - name: Build
         run: |
           cd app
-          npm run build --prod --base-href=/byli-cms
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.DEPLOY_TOKEN }}
-          publish_dir: app/dist/blog
+          npm run build
